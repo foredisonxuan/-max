@@ -1,6 +1,6 @@
 # -max
 大炫max 的公告通知。
-官网链接： https://dxmax.net 需要代理
+官网链接： https://dxmax.net
 无墙链接： https://dxmax.mx
 
 
